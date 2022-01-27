@@ -1,0 +1,10 @@
+# WolfSploit
+Hack Instagram accounts automatically by guessing 
+
+cd
+pkg install git
+pkg install python3
+cd
+ls
+cd WolfSploit
+python3 wolfsploit.py
